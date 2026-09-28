@@ -42,19 +42,19 @@ Análise dos gastos por país e da evolução dos gastos ao longo dos anos, cons
 
 ### Perfil dos clientes
 
-![Perfil dos clientes](./dashboard-marketing-cliente.png)
+![Perfil dos clientes](./dashboard-marketing-cliente.jpg)
 
 ### Comportamento de compra
 
-![Comportamento de compra](./dashboard-marketing-comportamento.png)
+![Comportamento de compra](./dashboard-marketing-comportamento.jpg)
 
 ### Performance das campanhas
 
-![Performance das campanhas](./dashboard-marketing-performance.png)
+![Performance das campanhas](./dashboard-marketing-performance.jpg)
 
 ### Padrões de compra por país
 
-![Padrões de compra por país](./dashboard-marketing-paises.png)
+![Padrões de compra por país](./dashboard-marketing-paises.jpg)
 
 ##  Arquivo do projeto
 
